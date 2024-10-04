@@ -7,7 +7,20 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20628f27-5e10-41e9-b4b5-d228df16753f" name="Changes" comment="" />
+    <list default="true" id="20628f27-5e10-41e9-b4b5-d228df16753f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/config_parser/tokenizer.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.config_parser.rs.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.main.rs.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config_parser.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/config_parser.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config_parser/.parser.rs.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/webserv-2e85fc6bae0396b0/bin-webserv" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.fingerprint/webserv-2e85fc6bae0396b0/bin-webserv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/webserv-2e85fc6bae0396b0/output-bin-webserv" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.fingerprint/webserv-2e85fc6bae0396b0/output-bin-webserv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/webserv-2e85fc6bae0396b0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/webserv-2e85fc6bae0396b0.d" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/deps/webserv-2e85fc6bae0396b0.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/webserv-1f0ozuz4ezx4x/s-h0g6iczafj-1j0grgk.lock" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,6 +115,8 @@
       <updated>1727451138584</updated>
       <workItem from="1727451139724" duration="1028000" />
       <workItem from="1727452176784" duration="8244000" />
+      <workItem from="1727787147897" duration="2425000" />
+      <workItem from="1727957634964" duration="2900000" />
     </task>
     <servers />
   </component>

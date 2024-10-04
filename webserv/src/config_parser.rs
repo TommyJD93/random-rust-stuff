@@ -1,4 +1,5 @@
 mod parser;
+mod tokenizer;
 
 pub fn parser(path: String) {
 	let config = parser::read_file(path);
